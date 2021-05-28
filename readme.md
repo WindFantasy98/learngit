@@ -6,6 +6,9 @@ Living a life is just like walking in desert.
 Without the direction, walking would be meaningless.  
 However, there are always some things worth pursuing and dreaming,  
 which give us the meaning of life.    
+  
+![tomato](https://github.com/WindFantasy98/tomato-clock/blob/master/tomato.png)
+
 
 ## Requirements
 
